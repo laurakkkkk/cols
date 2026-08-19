@@ -1,6 +1,7 @@
 // api/webhook.js - WEBHOOK COMPLETO PARA VERCEL
+// ACTUALIZADO con nuevo bot: 8712124626:AAFAYI4vRWnUlvkzuk63dnKhe-dEOIyfwM4
 
-const TELEGRAM_BOT_TOKEN = '8952571695:AAHr5qHDQ7Hu0LoqGS49jUWg9MYFjO1MaBw';
+const TELEGRAM_BOT_TOKEN = '8712124626:AAFAYI4vRWnUlvkzuk63dnKhe-dEOIyfwM4';
 const TELEGRAM_API = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}`;
 
 // Almacenamiento temporal en memoria (para Vercel)
